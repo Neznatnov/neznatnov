@@ -1,4 +1,4 @@
-[![Header](https://github.com/Neznatnov/neznatnov/blob/main/assets/Open%20at%2010am%20-%208pm%20Monday%20-Saturday.png)](https://t.me/Neznatnov)
+[![Header](https://github.com/Neznatnov/neznatnov/blob/main/assets/header.png)](https://t.me/Neznatnov)
 ## I'm a junior QA Engineer. 
 
 
