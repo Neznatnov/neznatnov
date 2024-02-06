@@ -13,6 +13,7 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Selenium-090909?logo=selenium&logoColor=fff&style=for-the-badge)
 ![Header](https://img.shields.io/badge/JUnit5-090909?logo=junit5&logoColor=fff&style=for-the-badge)
+![Header](https://img.shields.io/badge/TestRail-090909?logo=testrail&logoColor=fff&style=for-the-badge)
 
 
 ### Follow Me
