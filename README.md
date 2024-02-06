@@ -1,4 +1,3 @@
-[![Header](https://github.com/Neznatnov/neznatnov/blob/main/assets/header2.png)](https://t.me/Neznatnov)
 ## I'm a Software QA Engineer. 
 
 
